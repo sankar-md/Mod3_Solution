@@ -6,6 +6,10 @@ body{
     margin: 0 10px 0 10px;
 }
 
+#nav-container h2{
+    margin-bottom: 0;
+}
+
 #menu-title{
     margin: 10px 0 30px 0;
 }
@@ -39,9 +43,10 @@ body{
 }
 
 #scroll-top{
+    display: none;
     position: fixed;
-    bottom: 30px;
-    right: 30px;
+    bottom: 20px;
+    right: 20px;
 }
 
 #scroll-top:hover{
