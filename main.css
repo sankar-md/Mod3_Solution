@@ -1,0 +1,49 @@
+body{
+    font-family: "Poppins", sans-serif;
+    
+}
+#nav-container{
+    margin: 0 10px 0 10px;
+}
+
+#menu-title{
+    margin: 10px 0 30px 0;
+}
+
+#div,h4{
+    font-weight: 700;
+}
+
+.div,p{
+    line-height: 1.4;
+    font-weight: 650;
+}
+
+#chicken-content{
+    padding: 20px;
+    margin: 20px 0;
+    background-color: grey;
+}
+
+#beef-content{
+    background-color: grey;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+
+#sushi-content{
+    background-color: grey;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+#scroll-top{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+
+#scroll-top:hover{
+    background-color: blue;
+}
